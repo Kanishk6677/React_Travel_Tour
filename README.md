@@ -5,5 +5,7 @@ There are different cities I had appended in map. I am extracting map values one
 Steps to start the Project:-
 1. Npm i
 2. Npms start
+
+
 Note:- if React Script is not added in your json file add by below command:
-npm i starter-react-component
+npm i react-scripts
